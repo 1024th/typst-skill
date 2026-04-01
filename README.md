@@ -1,6 +1,6 @@
 # typst-skill
 
-An LLM skill for modern Typst typesetting (0.13+), so you no longer need to wait for LaTeX to compile.
+An LLM skill for modern [Typst](https://typst.app/) typesetting (0.13+), so you no longer need to wait for LaTeX to compile.
 
 ## What does it do?
 
